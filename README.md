@@ -1,2 +1,0 @@
-# LangoHorizon
-Online Language Course
